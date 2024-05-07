@@ -19,4 +19,10 @@ struct dorm_t
 
 struct dorm_t create_dorm(char *_name, unsigned short _capacity, enum gender_t _gender);
 
+short find_dorm_index_by_name(struct dorm_t *_dorms, unsigned short _dorm_size, char *_name);
+
+void print_dorm(struct dorm_t _dorm, unsigned short _is_detailed);
+
+void print_dorms(struct dorm_t *_dorms, unsigned short _dorm_size, unsigned short _is_detailed);
+
 #endif
