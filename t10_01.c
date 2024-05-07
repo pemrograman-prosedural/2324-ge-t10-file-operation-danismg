@@ -1,4 +1,4 @@
-// NIM - Name
+// NIM - Daniel
 // NIM - Name
 
 #include <stdio.h>
