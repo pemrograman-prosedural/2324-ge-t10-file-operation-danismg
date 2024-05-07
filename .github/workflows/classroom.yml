@@ -128,15 +128,11 @@ jobs:
           12S21009|Mikhael Pakpahan|2021|male
           12S21010|Bobby Siagian|2021|male
           12S21011|Aldi Simamora|2021|male
-          12S21007|Dame Sitinjak|2021|female
-          12S21008|Tuani Manurung|2021|male
           Antiokia|5|male
           Mamre|5|male
           Silo|5|male
           Mahanaim|5|male
           Nazaret|5|male
-          Pniel|20|female
-          Kapernaum|20|male
           Pniel|20|female
           Kapernaum|20|male
           12S21001|Dhino Turnip|2021|male|unassigned
@@ -149,15 +145,11 @@ jobs:
           12S21009|Mikhael Pakpahan|2021|male|unassigned
           12S21010|Bobby Siagian|2021|male|unassigned
           12S21011|Aldi Simamora|2021|male|unassigned
-          12S21007|Dame Sitinjak|2021|female|unassigned
-          12S21008|Tuani Manurung|2021|male|unassigned
           Antiokia|5|male|0
           Mamre|5|male|0
           Silo|5|male|0
           Mahanaim|5|male|0
           Nazaret|5|male|0
-          Pniel|20|female|0
-          Kapernaum|20|male|0
           Pniel|20|female|0
           Kapernaum|20|male|0
         comparison-method: exact
@@ -207,22 +199,11 @@ jobs:
           12S21009|Mikhael Pakpahan|2021|male
           12S21010|Bobby Siagian|2021|male
           12S21011|Aldi Simamora|2021|male
-          12S21007|Dame Sitinjak|2021|female
-          12S21008|Tuani Manurung|2021|male
-          12S21009|Mikhael Pakpahan|2021|male
-          12S21010|Bobby Siagian|2021|male
-          12S21011|Aldi Simamora|2021|male
-          12S21008|Tuani Manurung|2021|male
-          12S21007|Dame Sitinjak|2021|female
           Antiokia|5|male
           Mamre|5|male
           Silo|5|male
           Mahanaim|5|male
           Nazaret|5|male
-          Pniel|20|female
-          Kapernaum|20|male
-          Pniel|20|female
-          Kapernaum|20|male
           Pniel|20|female
           Kapernaum|20|male
           12S21001|Dhino Turnip|2021|male|Mahanaim
@@ -240,21 +221,12 @@ jobs:
           12S21009|Mikhael Pakpahan|2021|male|unassigned
           12S21010|Bobby Siagian|2021|male|unassigned
           12S21011|Aldi Simamora|2021|male|unassigned
-          12S21008|Tuani Manurung|2021|male|unassigned
-          12S21007|Dame Sitinjak|2021|female|unassigned
-          12S21009|Mikhael Pakpahan|2021|male|unassigned
-          12S21010|Bobby Siagian|2021|male|unassigned
-          12S21011|Aldi Simamora|2021|male|unassigned
           Antiokia|5|male|4
           Mamre|5|male|0
           Silo|5|male|0
           Mahanaim|5|male|1
           Nazaret|5|male|0
           Pniel|20|female|2
-          Kapernaum|20|male|0
-          Pniel|20|female|0
-          Kapernaum|20|male|0
-          Pniel|20|female|0
           Kapernaum|20|male|0
         comparison-method: exact
         timeout: 1
@@ -304,21 +276,6 @@ jobs:
           12S21009|Mikhael Pakpahan|2021|male|Nazaret
           12S21010|Bobby Siagian|2021|male|Nazaret
           12S21011|Aldi Simamora|2021|male|Nazaret
-          12S21007|Dame Sitinjak|2021|female|unassigned
-          12S21008|Tuani Manurung|2021|male|unassigned
-          12S21009|Mikhael Pakpahan|2021|male|unassigned
-          12S21010|Bobby Siagian|2021|male|unassigned
-          12S21011|Aldi Simamora|2021|male|unassigned
-          12S21008|Tuani Manurung|2021|male|unassigned
-          12S21007|Dame Sitinjak|2021|female|unassigned
-          12S21009|Mikhael Pakpahan|2021|male|unassigned
-          12S21010|Bobby Siagian|2021|male|unassigned
-          12S21011|Aldi Simamora|2021|male|unassigned
-          12S21008|Tuani Manurung|2021|male|unassigned
-          12S21009|Mikhael Pakpahan|2021|male|unassigned
-          12S21010|Bobby Siagian|2021|male|unassigned
-          12S21011|Aldi Simamora|2021|male|unassigned
-          12S21007|Dame Sitinjak|2021|female|unassigned
           Antiokia|5|male|4
           Mamre|5|male|0
           Silo|5|male|0
@@ -326,12 +283,6 @@ jobs:
           Nazaret|5|male|3
           Pniel|20|female|2
           Kapernaum|20|male|0
-          Pniel|20|female|0
-          Kapernaum|20|male|0
-          Pniel|20|female|0
-          Kapernaum|20|male|0
-          Kapernaum|20|male|0
-          Pniel|20|female|0
         comparison-method: exact
         timeout: 1
         max-score: 20
